@@ -1,0 +1,2 @@
+# GiveCMD
+ /give rust command
